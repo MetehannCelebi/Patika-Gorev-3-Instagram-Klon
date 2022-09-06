@@ -1,0 +1,18 @@
+#menu {
+    background-color: white !important;
+    height: 54px !important;
+}
+
+body {
+    padding-bottom: 10px;
+    background-color: #fff;
+    
+}
+
+.navbar-brand {
+    margin-left: 192px;
+}
+
+a{
+    text-decoration: none;
+}
